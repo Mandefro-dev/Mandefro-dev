@@ -35,10 +35,10 @@
 
 <h2 align="center"   >🐱‍💻FULL-STACK DEVELOPER FROM ETHIOPIA✔</h2>
 <img align="right" src="https://github.com/Mandefro-dev/Mandefro-dev/blob/main/giphy.gif" height= "450px"/>
-- 🌱 I’m currently learning **Phyton**
+ - 🌱  I’m currently learning **PYTHON**
 
-- 👨‍💻 All of my projects are available at
- [https://dev-mandefro.netlify.app](https://dev-mandefro.netlify.app)
+ - 👨‍💻 All of my projects are available at
+  [https://dev-mandefro.netlify.app](https://dev-mandefro.netlify.app)
 
 - 💬 Ask me about **HTML,CSS,JS,NODE**
 
