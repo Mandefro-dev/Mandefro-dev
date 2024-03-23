@@ -25,7 +25,7 @@ I'm Mandefro from Ethiopia, and I do WEB-DEVELOPMENT. I really enjoy learning la
 
 
 
-<h1 align="center">🐱‍💻Full-stack developer from Ethiopia✔✔</h1>
+<h1 align="center"  font-family: 'Arial', sans-serif; color: #FF5733; >🐱‍💻FULL-STACK DEVELOPER FROM ETHIOPIA✔✔</h1>
 
 - 🌱 I’m currently learning **Phyton**
 
