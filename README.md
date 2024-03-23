@@ -23,9 +23,9 @@ I'm Mandefro from Ethiopia, and I do WEB-DEVELOPMENT. I really enjoy learning la
 ![Mandefro-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mandefro-dev&theme=outrun&show_icons=true&hide_border=false&layout=compact)
 ###
 
-()
 
-<h3 align="center">Full-stack developer from Ethiopia</h3>
+
+<h1 align="center">🐱‍💻Full-stack developer from Ethiopia✔✔</h1>
 
 - 🌱 I’m currently learning **Phyton**
 
