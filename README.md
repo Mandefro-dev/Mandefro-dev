@@ -1,4 +1,4 @@
-<h1><<✨DIGITAL CRAFTSMAN>></h1>
+<h1 style=" color='red' font-size='500px'  "   ><<✨  <b> DIGITAL CRAFTSMAN<b/> >></h1>
 
 ### Hi there 👏👏
 
