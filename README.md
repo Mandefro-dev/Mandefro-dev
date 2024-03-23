@@ -8,7 +8,7 @@
 
 🚀 When I'm not coding, you can find me exploring the vibrant tech community, contributing to open-source projects, or enjoying a cup of coffee while brainstorming my next big idea. I believe in the power of collaboration and am always open to new opportunities and collaborations.
  Feel free to explore my repositories and reach out to me for any inquiries or collaboration opportunities.
-🌟 <h2>Let's connect and build something awesome together!<h2/> Happy coding! 😊
+🌟 <h3>Let's connect and build something awesome together!Happy coding! 😊<h3/> 
 
 
 
