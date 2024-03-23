@@ -37,7 +37,8 @@
 <img align="right" src="https://github.com/Mandefro-dev/Mandefro-dev/blob/main/giphy.gif" height= "450px"/>
 - 🌱 I’m currently learning **Phyton**
 
-- 👨‍💻 All of my projects are available at [https://dev-mandefro.netlify.app](https://dev-mandefro.netlify.app)
+- 👨‍💻 All of my projects are available at
+ [https://dev-mandefro.netlify.app](https://dev-mandefro.netlify.app)
 
 - 💬 Ask me about **HTML,CSS,JS,NODE**
 
