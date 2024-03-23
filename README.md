@@ -11,8 +11,8 @@ I'm Mandefro from Ethiopia, and I do WEB-DEVELOPMENT. I really enjoy learning la
 ![Mandefro-dev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mandefro-dev&theme=outrun&hide_border=false)
 
 ![Mandefro-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mandefro-dev&theme=outrun&show_icons=true&hide_border=false&layout=compact)
-<img src="https://giphy.com/embed/EeZ6mLsRRik8cgnh3D" width='300'/>
-<iframe src="https://giphy.com/embed/EeZ6mLsRRik8cgnh3D" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+<iframe src="https://giphy.com/embed/EeZ6mLsRRik8cgnh3D" width="480"></iframe>
 
 <h3 align="center">Full-stack developer from Ethiopia</h3>
 
