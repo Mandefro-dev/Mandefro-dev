@@ -14,7 +14,7 @@ I'm Mandefro from Ethiopia, and I do WEB-DEVELOPMENT. I really enjoy learning la
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
-
+<img align="right" src='https://tenor.com/view/web-design-modern-web-gif-gif-15349911.gif'/>
 
 ![Mandefro-dev's Stats](https://github-readme-stats.vercel.app/api?username=Mandefro-dev&theme=outrun&show_icons=true&hide_border=false&count_private=true)
 
@@ -22,7 +22,7 @@ I'm Mandefro from Ethiopia, and I do WEB-DEVELOPMENT. I really enjoy learning la
 
 ![Mandefro-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mandefro-dev&theme=outrun&show_icons=true&hide_border=false&layout=compact)
 ###
-<img align="right" src='https://tenor.com/view/web-design-modern-web-gif-gif-15349911.gif'/>
+
 ()
 
 <h3 align="center">Full-stack developer from Ethiopia</h3>
