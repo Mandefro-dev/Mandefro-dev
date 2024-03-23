@@ -1,6 +1,6 @@
 # <span style="color: red;">✨ **Digital Artisan**</span>
 
-<img  src="https://github.com/Mandefro-dev/Mandefro-dev/blob/main/giphy.gif" width= "500px" />
+<img  src="https://github.com/Mandefro-dev/Mandefro-dev/blob/main/giphy.gif" width= "1000px"/>
 
 
 ### Hi there 👏👏
