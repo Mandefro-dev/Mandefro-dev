@@ -4,7 +4,7 @@
 
 I'm Mandefro from Ethiopia, and I do WEB-DEVELOPMENT. I really enjoy learning languages and frameworks like React and React-native.
 
-![Web Design GIF](https://tenor.com/view/web-design-modern-web-gif-gif-15349911)
+![Web Design GIF](https://tenor.com/view/web-design-modern-web-gif-gif-15349911.gif)
 
 
 ![Mandefro-dev's Stats](https://github-readme-stats.vercel.app/api?username=Mandefro-dev&theme=outrun&show_icons=true&hide_border=false&count_private=true)
