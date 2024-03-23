@@ -34,7 +34,7 @@
 ### <h1> ABOUT ME😎<h1/>
 
 <h2 align="center"   >🐱‍💻FULL-STACK DEVELOPER FROM ETHIOPIA✔</h2>
-<img align="right" src="https://github.com/Mandefro-dev/Mandefro-dev/blob/main/giphy.gif" height= "200px"/>
+<img align="right" src="https://github.com/Mandefro-dev/Mandefro-dev/blob/main/giphy.gif" height= "450px"/>
 - 🌱 I’m currently learning **Phyton**
 
 - 👨‍💻 All of my projects are available at [https://dev-mandefro.netlify.app](https://dev-mandefro.netlify.app)
@@ -42,6 +42,8 @@
 - 💬 Ask me about **HTML,CSS,JS,NODE**
 
 - 📫 How to reach me **mandefroendalk00@gmail.com**
+ 
+ 
 
 
 
