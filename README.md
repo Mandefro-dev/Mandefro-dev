@@ -7,9 +7,8 @@
 💻 As a full-stack developer, I enjoy working with a variety of technologies including JavaScript, HTML/CSS, React, Node.js, and more. I'm constantly learning and exploring new tools and frameworks to improve my skills and stay up-to-date with the latest trends in the industry.
 
 🚀 When I'm not coding, you can find me exploring the vibrant tech community, contributing to open-source projects, or enjoying a cup of coffee while brainstorming my next big idea. I believe in the power of collaboration and am always open to new opportunities and collaborations.
-
-🌟 <h4>Let's connect and build something awesome together!<h4/> 
-Feel free to explore my repositories and reach out to me for any inquiries or collaboration opportunities. Happy coding! 😊
+ Feel free to explore my repositories and reach out to me for any inquiries or collaboration opportunities.
+🌟 <h4>Let's connect and build something awesome together!<h4/> Happy coding! 😊
 
 
 
