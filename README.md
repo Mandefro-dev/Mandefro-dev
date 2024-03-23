@@ -5,7 +5,7 @@
 I'm Mandefro from Ethiopia, and I do WEB-DEVELOPMENT. I really enjoy learning languages and frameworks like React and React-native.
 
  
-<img align="right" width="500px" src='https://tenor.com/view/web-design-modern-web-gif-gif-15349911.gif'/>
+<img align="right" width="500px"  src='https://tenor.com/view/web-design-modern-web-gif-gif-15349911.gif'/>
 
 
 
@@ -22,10 +22,11 @@ I'm Mandefro from Ethiopia, and I do WEB-DEVELOPMENT. I really enjoy learning la
 
 ![Mandefro-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mandefro-dev&theme=outrun&show_icons=true&hide_border=false&layout=compact)
 ###
-<br />
-< br/>
-< br/>
-< br/>
+
+
+
+### <h1> ABOUT ME😎<h1/>
+
 <h1 align="center"   >🐱‍💻FULL-STACK DEVELOPER FROM ETHIOPIA✔✔</h1>
 
 - 🌱 I’m currently learning **Phyton**
