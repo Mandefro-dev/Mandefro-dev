@@ -1,7 +1,6 @@
 # <span style="color: red;">✨ **Digital Artisan**</span>
 
-
-
+<img  src="https://giphy.com/embed/EeZ6mLsRRik8cgnh3D.gif" width= "500px" />
 
 
 ### Hi there 👏👏
