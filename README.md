@@ -12,7 +12,7 @@ I'm Mandefro from Ethiopia, and I do WEB-DEVELOPMENT. I really enjoy learning la
 
 ![Mandefro-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mandefro-dev&theme=outrun&show_icons=true&hide_border=false&layout=compact)
 
-<iframe src="https://giphy.com/embed/EeZ6mLsRRik8cgnh3D" width="480"></iframe>
+<img src='https://tenor.com/view/web-design-modern-web-gif-gif-15349911' width='400' />
 
 <h3 align="center">Full-stack developer from Ethiopia</h3>
 
