@@ -1,4 +1,5 @@
-<h1 color='red', font-size='500px'   ><<✨  <b> Digital Artisan<b/> >></h1> Artisan
+<h1 style="color: red; font-size: 500px;">✨ <b>Digital Artisan</b> </h1>
+
 
 ### Hi there 👏👏
 
